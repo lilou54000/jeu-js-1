@@ -1,0 +1,15 @@
+.grid {
+size: 50%;
+
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+margin: 20px;
+gap: 10px;
+}
+
+img{
+    width: 150px;
+    height: 120px;
+}
